@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: Tashi Delek
-    Content: Discover the daily life and transformative journeys of monks and nuns through stories on Sangha Journals.
+    Content: Discover the daily life and transformative journeys of monks and nuns through stories on Sangha Scribes.
 
   # socialIcons:
   # - name: x
@@ -115,10 +115,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: authors
-      name: Authors
-      url: /authors/
-      weight: 10
+    # - identifier: authors
+    #   name: Authors
+    #   url: /authors/
+    #   weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
