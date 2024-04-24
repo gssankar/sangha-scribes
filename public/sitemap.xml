@@ -2,17 +2,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gssankar.github.io/hugopapermod/</loc>
-    <lastmod>2024-04-24T21:58:24+05:30</lastmod>
+    <loc>http://localhost:1313/hugopapermod/categories/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gssankar.github.io/hugopapermod/posts/my-first-post/</loc>
-    <lastmod>2024-04-24T21:58:24+05:30</lastmod>
+    <loc>http://localhost:1313/hugopapermod/tags/concentration/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gssankar.github.io/hugopapermod/posts/</loc>
-    <lastmod>2024-04-24T21:58:24+05:30</lastmod>
+    <loc>http://localhost:1313/hugopapermod/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gssankar.github.io/hugopapermod/categories/</loc>
+    <loc>http://localhost:1313/hugopapermod/tags/meditation/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gssankar.github.io/hugopapermod/tags/</loc>
+    <loc>http://localhost:1313/hugopapermod/tags/mindfullness/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/categories/monk/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/posts/meditation-experience-concentration-analyzing/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/posts/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/</loc>
+    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/buddhist-literature/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/dalai-lama-books/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/posts/my-favourite-book-my-land-my-people/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/tibetan-history/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/posts/monk-daily-life-friday/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/daily-rituals/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/monk-life/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/tibetan-tradition/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/buddhist-studies/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/monastic-life/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/posts/my-monastery-journey-learning-growth/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/tags/spiritual-journey/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/categories/tenzin-gyatso/</loc>
+    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugopapermod/authors/tenzin-gyatso/</loc>
   </url>
 </urlset>

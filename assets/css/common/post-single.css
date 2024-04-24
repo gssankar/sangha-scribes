@@ -4,8 +4,8 @@
 }
 
 .post-title {
-    margin-bottom: 2px;
-    font-size: 40px;
+    margin-bottom: 20px;
+    font-size: 2em;
 }
 
 .post-description {
@@ -32,6 +32,10 @@
     font-size: 16px;
 }
 
+.breadcrumbs {
+    margin-bottom: 10px;
+}
+
 .post-content {
     color: var(--content);
 }
@@ -44,7 +48,7 @@
 }
 
 .post-content h1 {
-    margin: 40px auto 32px;
+    margin: 24px auto 24px;
     font-size: 40px;
 }
 
@@ -363,13 +367,16 @@ h6:hover .anchor {
 
 .paginav {
     display: flex;
-    line-height: 30px;
+    line-height: 1.5em;
+    margin-top: 36px;
+    font-size: 16px;
 }
 
 .paginav a {
     padding-inline-start: 14px;
     padding-inline-end: 14px;
     border-radius: var(--radius);
+    padding: 10px 20px 20px 20px;
 }
 
 .paginav .title {

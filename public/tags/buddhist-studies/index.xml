@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buddhist Studies on Sangha Journals</title>
+    <link>http://localhost:1313/hugopapermod/tags/buddhist-studies/</link>
+    <description>Recent content in Buddhist Studies on Sangha Journals</description>
+    <image>
+      <title>Sangha Journals</title>
+      <url>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugopapermod/tags/buddhist-studies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Monastery Journey: A Decade of Learning and Growth</title>
+      <link>http://localhost:1313/hugopapermod/posts/my-monastery-journey-learning-growth/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugopapermod/posts/my-monastery-journey-learning-growth/</guid>
+      <description>My Monastery name is Sera Mey Monastic University, located in Karnataka state, South India. I joined Sera Mey Monastery in 1992. From 1992 to 2022, I dedicated all my time to studying various subjects and topics. When I first joined the monastery, I attended the school for studying modern knowledge education, including English, Mathematics, science, and Tibetan language. I studied these subjects for seven years.
+At that time, my life was very interesting and happy.</description>
+    </item>
+  </channel>
+</rss>

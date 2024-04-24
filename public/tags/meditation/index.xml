@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meditation on Sangha Journals</title>
+    <link>http://localhost:1313/hugopapermod/tags/meditation/</link>
+    <description>Recent content in Meditation on Sangha Journals</description>
+    <image>
+      <title>Sangha Journals</title>
+      <url>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugopapermod/tags/meditation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Experience with Meditation: Concentration vs. Analyzing</title>
+      <link>http://localhost:1313/hugopapermod/posts/meditation-experience-concentration-analyzing/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugopapermod/posts/meditation-experience-concentration-analyzing/</guid>
+      <description>Today, I will outline the times of day when I engage in meditation. Normally, meditation has two different types: one is called concentration meditation, and the other is called analyzing meditation.
+Concentration meditation involves sitting in one place and focusing your mind on a single object for an extended period. The length of time you meditate depends on your practice level. As a beginner, it&amp;rsquo;s challenging to meditate for long periods without distractions entering your mind.</description>
+    </item>
+  </channel>
+</rss>
