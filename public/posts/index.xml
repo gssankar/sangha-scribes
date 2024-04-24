@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on hugopapermod</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://gssankar.github.io/hugopapermod/posts/</link>
     <description>Recent content in Posts on hugopapermod</description>
     <generator>Hugo -- 0.125.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Apr 2024 21:58:24 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gssankar.github.io/hugopapermod/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://gssankar.github.io/hugopapermod/posts/my-first-post/</link>
       <pubDate>Wed, 24 Apr 2024 21:58:24 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Test Page Test Page</description>
+      <guid>https://gssankar.github.io/hugopapermod/posts/my-first-post/</guid>
+      <description>Test Page Test Page (post baseURL)</description>
     </item>
   </channel>
 </rss>
