@@ -1,100 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Sangha Journals</title>
-    <link>http://localhost:1313/hugopapermod/tags/</link>
-    <description>Recent content in Tags on Sangha Journals</description>
+    <title>Tags on Sangha Scribes</title>
+    <link>http://localhost:1313/sangha-scribes/tags/</link>
+    <description>Recent content in Tags on Sangha Scribes</description>
     <image>
-      <title>Sangha Journals</title>
-      <url>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Sangha Scribes</title>
+      <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugopapermod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sangha-scribes/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concentration</title>
-      <link>http://localhost:1313/hugopapermod/tags/concentration/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/concentration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/concentration/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/concentration/</guid>
       <description></description>
     </item>
     <item>
       <title>Meditation</title>
-      <link>http://localhost:1313/hugopapermod/tags/meditation/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/meditation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/meditation/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/meditation/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindfullness</title>
-      <link>http://localhost:1313/hugopapermod/tags/mindfullness/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/mindfullness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/mindfullness/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/mindfullness/</guid>
       <description></description>
     </item>
     <item>
       <title>Buddhist Literature</title>
-      <link>http://localhost:1313/hugopapermod/tags/buddhist-literature/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/buddhist-literature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/buddhist-literature/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/buddhist-literature/</guid>
       <description></description>
     </item>
     <item>
       <title>Dalai Lama Books</title>
-      <link>http://localhost:1313/hugopapermod/tags/dalai-lama-books/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/dalai-lama-books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/dalai-lama-books/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/dalai-lama-books/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibetan History</title>
-      <link>http://localhost:1313/hugopapermod/tags/tibetan-history/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/tibetan-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/tibetan-history/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/tibetan-history/</guid>
       <description></description>
     </item>
     <item>
       <title>Daily Rituals</title>
-      <link>http://localhost:1313/hugopapermod/tags/daily-rituals/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/daily-rituals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/daily-rituals/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/daily-rituals/</guid>
       <description></description>
     </item>
     <item>
       <title>Monk Life</title>
-      <link>http://localhost:1313/hugopapermod/tags/monk-life/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/monk-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/monk-life/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/monk-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibetan Tradition</title>
-      <link>http://localhost:1313/hugopapermod/tags/tibetan-tradition/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/tibetan-tradition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/tibetan-tradition/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/tibetan-tradition/</guid>
       <description></description>
     </item>
     <item>
       <title>Buddhist Studies</title>
-      <link>http://localhost:1313/hugopapermod/tags/buddhist-studies/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/buddhist-studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/buddhist-studies/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/buddhist-studies/</guid>
       <description></description>
     </item>
     <item>
       <title>Monastic Life</title>
-      <link>http://localhost:1313/hugopapermod/tags/monastic-life/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/monastic-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/monastic-life/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/monastic-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Spiritual Journey</title>
-      <link>http://localhost:1313/hugopapermod/tags/spiritual-journey/</link>
+      <link>http://localhost:1313/sangha-scribes/tags/spiritual-journey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/tags/spiritual-journey/</guid>
+      <guid>http://localhost:1313/sangha-scribes/tags/spiritual-journey/</guid>
       <description></description>
     </item>
   </channel>

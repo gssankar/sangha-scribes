@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Home on Sangha Journals</title>
-    <link>http://localhost:1313/hugopapermod/</link>
-    <description>Recent content in Home on Sangha Journals</description>
+    <title>Home on Sangha Scribes</title>
+    <link>http://localhost:1313/sangha-scribes/</link>
+    <description>Recent content in Home on Sangha Scribes</description>
     <image>
-      <title>Sangha Journals</title>
-      <url>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Sangha Scribes</title>
+      <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugopapermod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sangha-scribes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Experience with Meditation: Concentration vs. Analyzing</title>
-      <link>http://localhost:1313/hugopapermod/posts/meditation-experience-concentration-analyzing/</link>
+      <link>http://localhost:1313/sangha-scribes/posts/meditation-experience-concentration-analyzing/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/posts/meditation-experience-concentration-analyzing/</guid>
+      <guid>http://localhost:1313/sangha-scribes/posts/meditation-experience-concentration-analyzing/</guid>
       <description>Today, I will outline the times of day when I engage in meditation. Normally, meditation has two different types: one is called concentration meditation, and the other is called analyzing meditation.
 Concentration meditation involves sitting in one place and focusing your mind on a single object for an extended period. The length of time you meditate depends on your practice level. As a beginner, it&amp;rsquo;s challenging to meditate for long periods without distractions entering your mind.</description>
     </item>
     <item>
       <title>Sharing My Favourite Book: My Land and My People</title>
-      <link>http://localhost:1313/hugopapermod/posts/my-favourite-book-my-land-my-people/</link>
+      <link>http://localhost:1313/sangha-scribes/posts/my-favourite-book-my-land-my-people/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/posts/my-favourite-book-my-land-my-people/</guid>
+      <guid>http://localhost:1313/sangha-scribes/posts/my-favourite-book-my-land-my-people/</guid>
       <description>Today, I will share some of my favorite books, quotes, and scriptures. Over the years, I have read numerous scriptures during my study times. However, these readings were not always based on personal preference but rather for exam purposes.
 During my free time, reading a book is quite rare in my life. However, a few years ago, I came across a book by our Guru, His Holiness the Dalai Lama. The title of the book was &amp;ldquo;My Land and My People.</description>
     </item>
     <item>
       <title>A Monk&#39;s Reflections on Auspicious Fridays, Daily Rituals, and Simple Life</title>
-      <link>http://localhost:1313/hugopapermod/posts/monk-daily-life-friday/</link>
+      <link>http://localhost:1313/sangha-scribes/posts/monk-daily-life-friday/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/posts/monk-daily-life-friday/</guid>
+      <guid>http://localhost:1313/sangha-scribes/posts/monk-daily-life-friday/</guid>
       <description>Today is Friday, and Fridays are considered to be an auspicious day in our tradition.
 This morning, I woke up at 6 am, brushed my teeth and freshened up as usual. After that, I offered water and incense to Lord Buddha and my root Guru, and prayed for all sentient beings who are alive in this beautiful world.
 Then, I sat on my bed with folded legs and assumed a vertical body position.</description>
     </item>
     <item>
       <title>My Monastery Journey: A Decade of Learning and Growth</title>
-      <link>http://localhost:1313/hugopapermod/posts/my-monastery-journey-learning-growth/</link>
+      <link>http://localhost:1313/sangha-scribes/posts/my-monastery-journey-learning-growth/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/posts/my-monastery-journey-learning-growth/</guid>
+      <guid>http://localhost:1313/sangha-scribes/posts/my-monastery-journey-learning-growth/</guid>
       <description>My Monastery name is Sera Mey Monastic University, located in Karnataka state, South India. I joined Sera Mey Monastery in 1992. From 1992 to 2022, I dedicated all my time to studying various subjects and topics. When I first joined the monastery, I attended the school for studying modern knowledge education, including English, Mathematics, science, and Tibetan language. I studied these subjects for seven years.
 At that time, my life was very interesting and happy.</description>
     </item>

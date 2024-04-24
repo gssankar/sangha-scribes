@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tibetan History on Sangha Journals</title>
-    <link>http://localhost:1313/hugopapermod/tags/tibetan-history/</link>
-    <description>Recent content in Tibetan History on Sangha Journals</description>
+    <title>Tibetan History on Sangha Scribes</title>
+    <link>http://localhost:1313/sangha-scribes/tags/tibetan-history/</link>
+    <description>Recent content in Tibetan History on Sangha Scribes</description>
     <image>
-      <title>Sangha Journals</title>
-      <url>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/hugopapermod/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Sangha Scribes</title>
+      <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugopapermod/tags/tibetan-history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sangha-scribes/tags/tibetan-history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sharing My Favourite Book: My Land and My People</title>
-      <link>http://localhost:1313/hugopapermod/posts/my-favourite-book-my-land-my-people/</link>
+      <link>http://localhost:1313/sangha-scribes/posts/my-favourite-book-my-land-my-people/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugopapermod/posts/my-favourite-book-my-land-my-people/</guid>
+      <guid>http://localhost:1313/sangha-scribes/posts/my-favourite-book-my-land-my-people/</guid>
       <description>Today, I will share some of my favorite books, quotes, and scriptures. Over the years, I have read numerous scriptures during my study times. However, these readings were not always based on personal preference but rather for exam purposes.
 During my free time, reading a book is quite rare in my life. However, a few years ago, I came across a book by our Guru, His Holiness the Dalai Lama. The title of the book was &amp;ldquo;My Land and My People.</description>
     </item>
