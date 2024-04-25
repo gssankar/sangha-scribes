@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 slug: 
 
 date: {{ .Date }}
-draft: true
+draft: false
 
 author: Tenzin Gyatso
 
