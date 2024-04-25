@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/sangha-scribes/posts/q5/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/tags/monastic-life/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/posts/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/tags/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/tags/tibetan-culture/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/tags/vegetarian/</loc>
+    <lastmod>2024-04-25T02:21:07+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/sangha-scribes/categories/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/tags/concentration/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sangha-scribes/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/tags/meditation/</loc>
@@ -23,19 +41,13 @@
     <loc>http://localhost:1313/sangha-scribes/posts/meditation-experience-concentration-analyzing/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sangha-scribes/posts/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/sangha-scribes/tags/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sangha-scribes/tags/buddhist-literature/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/tags/dalai-lama-books/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sangha-scribes/posts/my-favourite-book-my-land-my-people/</loc>
+    <loc>http://localhost:1313/sangha-scribes/posts/favourite-book-my-land-my-people/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/tags/tibetan-history/</loc>
@@ -56,9 +68,6 @@
     <loc>http://localhost:1313/sangha-scribes/tags/buddhist-studies/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sangha-scribes/tags/monastic-life/</loc>
-    <lastmod>2024-04-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/sangha-scribes/posts/my-monastery-journey-learning-growth/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -67,6 +76,8 @@
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/categories/tenzin-gyatso/</loc>
     <lastmod>2024-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/sangha-scribes/posts/temp_q5/</loc>
   </url><url>
     <loc>http://localhost:1313/sangha-scribes/archives/</loc>
   </url><url>

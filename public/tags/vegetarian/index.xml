@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Monastic Life on Sangha Scribes</title>
-    <link>http://localhost:1313/sangha-scribes/tags/monastic-life/</link>
-    <description>Recent content in Monastic Life on Sangha Scribes</description>
+    <title>Vegetarian on Sangha Scribes</title>
+    <link>http://localhost:1313/sangha-scribes/tags/vegetarian/</link>
+    <description>Recent content in Vegetarian on Sangha Scribes</description>
     <image>
       <title>Sangha Scribes</title>
       <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,21 +12,13 @@
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Apr 2024 02:21:07 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sangha-scribes/tags/monastic-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/sangha-scribes/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Day in the Life: Meals at My Monastery</title>
       <link>http://localhost:1313/sangha-scribes/posts/q5/</link>
       <pubDate>Thu, 25 Apr 2024 02:21:07 +0530</pubDate>
       <guid>http://localhost:1313/sangha-scribes/posts/q5/</guid>
       <description>Today, I am going to describe my daily meals in the monastery. In our monastery and school, the meals are served by the monastery. I think this is similar to all monasteries and schools at any place. Typically, we have three meals a day in our monastery. We have a friendly kitchen for all monks. From there, they serve three meals to each monk every day. So, the schedule of the meal in a day is: morning bell ring at 7 am, afternoon at 11:30 am, and evening at 5 pm.</description>
-    </item>
-    <item>
-      <title>My Monastery Journey: A Decade of Learning and Growth</title>
-      <link>http://localhost:1313/sangha-scribes/posts/my-monastery-journey-learning-growth/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sangha-scribes/posts/my-monastery-journey-learning-growth/</guid>
-      <description>My Monastery name is Sera Mey Monastic University, located in Karnataka state, South India. I joined Sera Mey Monastery in 1992. From 1992 to 2022, I dedicated all my time to studying various subjects and topics. When I first joined the monastery, I attended the school for studying modern knowledge education, including English, Mathematics, science, and Tibetan language. I studied these subjects for seven years.
-At that time, my life was very interesting and happy.</description>
     </item>
   </channel>
 </rss>
