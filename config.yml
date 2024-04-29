@@ -15,7 +15,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Sangha Scribes
-  description: "ExampleSite description"
+  description: "Insightful Writings from the Sangha"
   keywords: [Blog, Portfolio, PaperMod]
   author: Admin
   # author: ["Me", "You"] # multiple authors
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Sangha Scribes
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
