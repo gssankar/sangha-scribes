@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teacher on Sangha Scribes</title>
-    <link>http://localhost:1313/sangha-scribes/tags/teacher/</link>
+    <link>https://sangha.gssh.site/tags/teacher/</link>
     <description>Recent content in Teacher on Sangha Scribes</description>
     <image>
       <title>Sangha Scribes</title>
-      <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Apr 2024 18:06:37 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sangha-scribes/tags/teacher/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sangha.gssh.site/tags/teacher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Teachers Shape Our Lives</title>
-      <link>http://localhost:1313/sangha-scribes/posts/how-teachers-shape-our-lives/</link>
+      <link>https://sangha.gssh.site/posts/how-teachers-shape-our-lives/</link>
       <pubDate>Fri, 26 Apr 2024 18:06:37 +0530</pubDate>
-      <guid>http://localhost:1313/sangha-scribes/posts/how-teachers-shape-our-lives/</guid>
+      <guid>https://sangha.gssh.site/posts/how-teachers-shape-our-lives/</guid>
       <description>I have met many teachers in my life so far. From my school days, I started following their advice. In my school, I met various teachers through different subjects. But not all teachers are similar characters and have a different style of teaching. Some teachers teach very carefully, while others teach openly. Still, some teachers give many advices during teaching time, and some don&amp;rsquo;t. This is different from the styles of teachers and their mindsets.</description>
     </item>
   </channel>

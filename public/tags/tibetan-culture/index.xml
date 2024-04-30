@@ -2,30 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tibetan Culture on Sangha Scribes</title>
-    <link>http://localhost:1313/sangha-scribes/tags/tibetan-culture/</link>
+    <link>https://sangha.gssh.site/tags/tibetan-culture/</link>
     <description>Recent content in Tibetan Culture on Sangha Scribes</description>
     <image>
       <title>Sangha Scribes</title>
-      <url>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/sangha-scribes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 20:19:05 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sangha-scribes/tags/tibetan-culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Apr 2024 21:55:31 +0530</lastBuildDate>
+    <atom:link href="https://sangha.gssh.site/tags/tibetan-culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Home Away from Home: My Journey as a Tibetan Monk in Southern India</title>
+      <link>https://sangha.gssh.site/posts/tibetan-monk-home-south-india-monastery/</link>
+      <pubDate>Mon, 29 Apr 2024 21:55:31 +0530</pubDate>
+      <guid>https://sangha.gssh.site/posts/tibetan-monk-home-south-india-monastery/</guid>
+      <description>My monastery&amp;rsquo;s name is Sera Mey Monastery, located in southern India. Southern India is home to many monasteries; most of the larger ones are situated here. When His Holiness the Dalai Lama requested a state minister to allocate land for Tibetan refugees, the Karnataka Chief Minister kindly offered the land to His Holiness for this purpose. As a result, many monasteries and Tibetan colonies were established in southern India. However, we were only granted forestland, not pre-cleared land suitable for building houses or farming.</description>
+    </item>
     <item>
       <title>A Monk&#39;s Reflections on Childhood in Tibet</title>
-      <link>http://localhost:1313/sangha-scribes/posts/monk-childhood-tibet/</link>
+      <link>https://sangha.gssh.site/posts/monk-childhood-tibet/</link>
       <pubDate>Thu, 25 Apr 2024 20:19:05 +0530</pubDate>
-      <guid>http://localhost:1313/sangha-scribes/posts/monk-childhood-tibet/</guid>
+      <guid>https://sangha.gssh.site/posts/monk-childhood-tibet/</guid>
       <description>I was born in Tibet, and my family&amp;rsquo;s occupations were both farming and nomadic herding. As a result, most of my childhood memories are based on these conditions.
 In the spring, some of my family members go to the nomadic place with yaks, sheep, and goats. Nomads never stay in one place for a long time; they change locations every week or month, depending on how much good grass is available for the animals.</description>
     </item>
     <item>
       <title>A Day in the Life: Meals at My Monastery</title>
-      <link>http://localhost:1313/sangha-scribes/posts/monastery-meals/</link>
+      <link>https://sangha.gssh.site/posts/monastery-meals/</link>
       <pubDate>Thu, 25 Apr 2024 02:21:07 +0530</pubDate>
-      <guid>http://localhost:1313/sangha-scribes/posts/monastery-meals/</guid>
+      <guid>https://sangha.gssh.site/posts/monastery-meals/</guid>
       <description>Today, I am going to describe my daily meals in the monastery. In our monastery and school, the meals are served by the monastery. I think this is similar to all monasteries and schools at any place. Typically, we have three meals a day in our monastery. We have a friendly kitchen for all monks. From there, they serve three meals to each monk every day. So, the schedule of the meal in a day is: morning bell ring at 7 am, afternoon at 11:30 am, and evening at 5 pm.</description>
     </item>
   </channel>
