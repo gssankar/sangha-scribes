@@ -2,155 +2,155 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Sangha Scribes</title>
-    <link>https://sangha.gssh.site/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Sangha Scribes</description>
     <image>
       <title>Sangha Scribes</title>
-      <url>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 29 Apr 2024 21:55:31 +0530</lastBuildDate>
-    <atom:link href="https://sangha.gssh.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tibetan Culture</title>
-      <link>https://sangha.gssh.site/tags/tibetan-culture/</link>
+      <link>http://localhost:1313/tags/tibetan-culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/tibetan-culture/</guid>
+      <guid>http://localhost:1313/tags/tibetan-culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibetan History</title>
-      <link>https://sangha.gssh.site/tags/tibetan-history/</link>
+      <link>http://localhost:1313/tags/tibetan-history/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/tibetan-history/</guid>
+      <guid>http://localhost:1313/tags/tibetan-history/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibetan Monastery</title>
-      <link>https://sangha.gssh.site/tags/tibetan-monastery/</link>
+      <link>http://localhost:1313/tags/tibetan-monastery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/tibetan-monastery/</guid>
+      <guid>http://localhost:1313/tags/tibetan-monastery/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://sangha.gssh.site/tags/education/</link>
+      <link>http://localhost:1313/tags/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/education/</guid>
+      <guid>http://localhost:1313/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Mentor</title>
-      <link>https://sangha.gssh.site/tags/mentor/</link>
+      <link>http://localhost:1313/tags/mentor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/mentor/</guid>
+      <guid>http://localhost:1313/tags/mentor/</guid>
       <description></description>
     </item>
     <item>
       <title>Teacher</title>
-      <link>https://sangha.gssh.site/tags/teacher/</link>
+      <link>http://localhost:1313/tags/teacher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/teacher/</guid>
+      <guid>http://localhost:1313/tags/teacher/</guid>
       <description></description>
     </item>
     <item>
       <title>Childhood Memories</title>
-      <link>https://sangha.gssh.site/tags/childhood-memories/</link>
+      <link>http://localhost:1313/tags/childhood-memories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/childhood-memories/</guid>
+      <guid>http://localhost:1313/tags/childhood-memories/</guid>
       <description></description>
     </item>
     <item>
       <title>Nomadic Lifestyle</title>
-      <link>https://sangha.gssh.site/tags/nomadic-lifestyle/</link>
+      <link>http://localhost:1313/tags/nomadic-lifestyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/nomadic-lifestyle/</guid>
+      <guid>http://localhost:1313/tags/nomadic-lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>Monk Life</title>
-      <link>https://sangha.gssh.site/tags/monk-life/</link>
+      <link>http://localhost:1313/tags/monk-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/monk-life/</guid>
+      <guid>http://localhost:1313/tags/monk-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Vegetarian</title>
-      <link>https://sangha.gssh.site/tags/vegetarian/</link>
+      <link>http://localhost:1313/tags/vegetarian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/vegetarian/</guid>
+      <guid>http://localhost:1313/tags/vegetarian/</guid>
       <description></description>
     </item>
     <item>
       <title>Concentration</title>
-      <link>https://sangha.gssh.site/tags/concentration/</link>
+      <link>http://localhost:1313/tags/concentration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/concentration/</guid>
+      <guid>http://localhost:1313/tags/concentration/</guid>
       <description></description>
     </item>
     <item>
       <title>Meditation</title>
-      <link>https://sangha.gssh.site/tags/meditation/</link>
+      <link>http://localhost:1313/tags/meditation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/meditation/</guid>
+      <guid>http://localhost:1313/tags/meditation/</guid>
       <description></description>
     </item>
     <item>
       <title>Mindfullness</title>
-      <link>https://sangha.gssh.site/tags/mindfullness/</link>
+      <link>http://localhost:1313/tags/mindfullness/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/mindfullness/</guid>
+      <guid>http://localhost:1313/tags/mindfullness/</guid>
       <description></description>
     </item>
     <item>
       <title>Buddhist Literature</title>
-      <link>https://sangha.gssh.site/tags/buddhist-literature/</link>
+      <link>http://localhost:1313/tags/buddhist-literature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/buddhist-literature/</guid>
+      <guid>http://localhost:1313/tags/buddhist-literature/</guid>
       <description></description>
     </item>
     <item>
       <title>Dalai Lama Books</title>
-      <link>https://sangha.gssh.site/tags/dalai-lama-books/</link>
+      <link>http://localhost:1313/tags/dalai-lama-books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/dalai-lama-books/</guid>
+      <guid>http://localhost:1313/tags/dalai-lama-books/</guid>
       <description></description>
     </item>
     <item>
       <title>Daily Rituals</title>
-      <link>https://sangha.gssh.site/tags/daily-rituals/</link>
+      <link>http://localhost:1313/tags/daily-rituals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/daily-rituals/</guid>
+      <guid>http://localhost:1313/tags/daily-rituals/</guid>
       <description></description>
     </item>
     <item>
       <title>Tibetan Tradition</title>
-      <link>https://sangha.gssh.site/tags/tibetan-tradition/</link>
+      <link>http://localhost:1313/tags/tibetan-tradition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/tibetan-tradition/</guid>
+      <guid>http://localhost:1313/tags/tibetan-tradition/</guid>
       <description></description>
     </item>
     <item>
       <title>Buddhist Studies</title>
-      <link>https://sangha.gssh.site/tags/buddhist-studies/</link>
+      <link>http://localhost:1313/tags/buddhist-studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/buddhist-studies/</guid>
+      <guid>http://localhost:1313/tags/buddhist-studies/</guid>
       <description></description>
     </item>
     <item>
       <title>Monastic Life</title>
-      <link>https://sangha.gssh.site/tags/monastic-life/</link>
+      <link>http://localhost:1313/tags/monastic-life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/monastic-life/</guid>
+      <guid>http://localhost:1313/tags/monastic-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Spiritual Journey</title>
-      <link>https://sangha.gssh.site/tags/spiritual-journey/</link>
+      <link>http://localhost:1313/tags/spiritual-journey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sangha.gssh.site/tags/spiritual-journey/</guid>
+      <guid>http://localhost:1313/tags/spiritual-journey/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Childhood Memories on Sangha Scribes</title>
-    <link>https://sangha.gssh.site/tags/childhood-memories/</link>
+    <link>http://localhost:1313/tags/childhood-memories/</link>
     <description>Recent content in Childhood Memories on Sangha Scribes</description>
     <image>
       <title>Sangha Scribes</title>
-      <url>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://sangha.gssh.site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 25 Apr 2024 20:19:05 +0530</lastBuildDate>
-    <atom:link href="https://sangha.gssh.site/tags/childhood-memories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/childhood-memories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Monk&#39;s Reflections on Childhood in Tibet</title>
-      <link>https://sangha.gssh.site/posts/monk-childhood-tibet/</link>
+      <link>http://localhost:1313/posts/monk-childhood-tibet/</link>
       <pubDate>Thu, 25 Apr 2024 20:19:05 +0530</pubDate>
-      <guid>https://sangha.gssh.site/posts/monk-childhood-tibet/</guid>
+      <guid>http://localhost:1313/posts/monk-childhood-tibet/</guid>
       <description>I was born in Tibet, and my family&amp;rsquo;s occupations were both farming and nomadic herding. As a result, most of my childhood memories are based on these conditions.
 In the spring, some of my family members go to the nomadic place with yaks, sheep, and goats. Nomads never stay in one place for a long time; they change locations every week or month, depending on how much good grass is available for the animals.</description>
     </item>
